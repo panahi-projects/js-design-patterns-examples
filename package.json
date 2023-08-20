@@ -1,7 +1,7 @@
 {
-    "name": "web-server-starer",
+    "name": "js-design-patterns",
     "version": "1.0.0",
-    "description": "web server starer",
+    "description": "JS Design Patterns",
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
@@ -10,7 +10,7 @@
     },
     "keywords": [
         "javascript",
-        "web server"
+        "design patterns"
     ],
     "author": {
         "name": "Saeed Panahi",
